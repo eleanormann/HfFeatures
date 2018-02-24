@@ -8,7 +8,7 @@ based on standard deviation because when I trained a
 learning algorithm on a bunch of descriptives it turned 
 out it was mostly relying on that. 
 
-####Usage
+### Usage
 
 This is not a standalone app. Run various calculations via
 tests.
